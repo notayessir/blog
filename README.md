@@ -1,5 +1,9 @@
 ## 学习与总结
 
+2025-05-13
+
+[用 iText 将 HTML 生成 PDF](https://github.com/notayessir/blog/blob/main/articles/2025-05-13-HTML-TO-PDF.md)
+
 2024-11-30
 
 [撮合引擎设计思路](https://github.com/notayessir/blog/blob/main/articles/2024-11-30-A-matching-engine.md)
