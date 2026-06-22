@@ -1,5 +1,9 @@
 ## 学习与总结
 
+2026-06-22
+
+[UoW 工作单元模式](https://github.com/notayessir/blog/blob/main/articles/2026-06-22-UoW.md)
+
 2025-05-13
 
 [用 iText 将 HTML 生成 PDF](https://github.com/notayessir/blog/blob/main/articles/2025-05-13-HTML-TO-PDF.md)
